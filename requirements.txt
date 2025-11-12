@@ -1,1 +1,3 @@
-flask
+# requirements.txt
+# No se requieren dependencias externas para el conversor básico
+python-version = "3.11"
